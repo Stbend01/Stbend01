@@ -1,6 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
+ 🏫 **Wayne State College Student · Wayne Nebraska**
+  🏡 Hometown Wausa Nebraska
 **Stbend01/Stbend01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
