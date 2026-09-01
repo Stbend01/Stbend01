@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🏫 **Wayne State College · Wayne Nebraska**
+🏫 **Wayne State College · Wayne, Nebraska**  
 🏡 Hometown Wausa, Nebraska
 
 ---
@@ -14,6 +14,8 @@ I am pre-engineering student at Wayne State college, studying to become a mechan
 ## 🧠 Expertise 
 
 - Detail Orientation
+- Communication Skills
+- 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
