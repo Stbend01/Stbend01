@@ -5,11 +5,12 @@
 
 ---
 
-## About Me
+## ⛳About Me
 
-I am pre-engineering student at Wayne State college, studying to become a mechanical engineer.
+**I am pre-engineering student at Wayne State college, studying to become a mechanical engineer.
 My current employment is being a teller at Commercial State Bank.
-My hobbies include lifting, coin collecting, and wood working.
+My hobbies include lifting, coin collecting, and golfing. 
+
 ---
 
 ## 🧠 Expertise 
@@ -25,3 +26,18 @@ My hobbies include lifting, coin collecting, and wood working.
 - Auto Desk
 - Auto Cad
 - Fusion 360
+
+---
+
+##📃 Future Plans
+
+- Transfer to University of Nebraska Lincoln
+- Obtain my Bachelors in Mechanical Engineering
+- Hone my design skills
+- Save and invest
+
+  ---
+
+  ### Contact
+**Gmail-**
+steven77bender@gmail.com
