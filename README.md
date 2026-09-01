@@ -8,21 +8,20 @@
 ## About Me
 
 I am pre-engineering student at Wayne State college, studying to become a mechanical engineer.
-
+My current employment is being a teller at Commercial State Bank.
+My hobbies include lifting, coin collecting, and wood working.
 ---
 
 ## 🧠 Expertise 
 
 - Detail Orientation
 - Communication Skills
-- 
+- Design & Development
+- Cooperation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ---
+
+  ## 💾Program Experience
+- Auto Desk
+- Auto Cad
+- Fusion 360
