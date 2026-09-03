@@ -29,7 +29,7 @@ My hobbies include lifting, coin collecting, and golfing.
 
 ---
 
-##📃 Future Plans
+## 📃 Future Plans
 
 - Transfer to University of Nebraska Lincoln
 - Obtain my Bachelors in Mechanical Engineering
@@ -40,7 +40,7 @@ My hobbies include lifting, coin collecting, and golfing.
 
   ### Contact
 **Gmail-**
-steven77bender@gmail.com
+- steven77bender@gmail.com
 
 **Linkedin**
-www.linkedin.com/in/steven-bender-97a290433
+- www.linkedin.com/in/steven-bender-97a290433
